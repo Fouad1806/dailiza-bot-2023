@@ -70,7 +70,14 @@ psychobabble = [
      "Kannst du mir mehr über deine Situation bezüglich {0} erzählen?"]]
 
     [r"[Hh]allo",
-     ["Hallo! Wie kann ich dir heute helfen?",
+    ["Hallo! Wie kann ich dir heute helfen?",
       "Guten Tag! Was kann ich für dich tun?",
       "Hallo! Schön, dass du hier bist. Wie kann ich dich unterstützen?"]]
+
+    [r"[Aa]uf Wiedersehen",
+    ["Auf Wiedersehen! Wenn du in der Zukunft Fragen hast, weißt du, wo du mich findest.",
+     "Bis bald! Es war nett, mit dir zu sprechen.",
+     "Tschüss! Hab einen großartigen Tag!"]]
+
+    
 ]
